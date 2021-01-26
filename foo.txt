@@ -1,3 +1,7 @@
 test
+<<<<<<< HEAD
 A
 branchA
+=======
+branchB
+>>>>>>> foo_branch1
